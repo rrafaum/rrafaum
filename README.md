@@ -11,7 +11,7 @@
 </div>
 
 <div>
-    <img src="banner_githu.png">
+    <img src="/banner_githu.png">
 </div>
 
 #
