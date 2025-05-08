@@ -3,7 +3,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=30&pause=1000&background=FF000000&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+profile!%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
 </div>
 
-<img src="src/banner_github.png" alt="" align="center"></img>
+<img src="src/banner_github.png" alt="Banner GitHub" align="center"></img>
 
 #
 
@@ -33,9 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  
-  
-      
 
 </div>
 
