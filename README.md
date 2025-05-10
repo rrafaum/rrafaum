@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rrafaum&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats">
 
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaum&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaum&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
 </div>
 
 #
