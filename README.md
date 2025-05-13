@@ -42,11 +42,13 @@
 <!-- Estatísticas -->
 <div style="text-align: center; ">
   <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rrafaum&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats">
 
+  <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaum&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=rrafaum&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" height="160" alt="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrafaum&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160" alt="Most Used Languages">
+  </div>
 </div>
 
 #
